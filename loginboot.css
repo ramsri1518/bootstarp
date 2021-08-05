@@ -1,0 +1,12 @@
+.dis{
+    display: flex;
+    display: -ms-flexbox;
+ width: 50%;
+}
+.icon{
+    min-width: 50px;
+    text-align: center;
+background-color: rgb(101, 122, 219);
+color: white
+
+}
